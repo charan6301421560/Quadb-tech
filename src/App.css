@@ -1,0 +1,47 @@
+.container{
+  background-color: #6395c4;
+  margin-top: -23px;
+  padding: 20px;
+}
+.showlist-body{
+  display:flex;
+  flex-direction: row;
+  padding: 20px;
+ 
+}
+.showlist-title{
+  color: #75310a;
+}
+.showlist-text{
+  font-family: 'Roboto';
+}
+.showlist-heading{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: rgb(33, 7, 54);
+  
+}
+.showlist-direction{
+  margin-left: 20px;
+  margin-top:-20px;
+}
+link{
+  border-style: solid;
+  border-width: 2px;
+  border-color: blueviolet;
+}
+
+.showsummery-heading{
+  text-align: center;
+  color: rgb(24, 26, 25);
+}
+.showsummery{
+  font-family: 'Roboto';
+}
+.booking-container{
+  background-color: #6395c4;
+  padding: 20px;
+  text-align: center;
+}
